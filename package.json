@@ -1,0 +1,30 @@
+{
+  "name": "exit",
+  "version": "1.0.0",
+  "description": "first react project notes",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atulbansal30/first-react-project.git"
+  },
+  "keywords": [],
+  "author": "atul bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atulbansal30/first-react-project/issues"
+  },
+  "homepage": "https://github.com/atulbansal30/first-react-project#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
